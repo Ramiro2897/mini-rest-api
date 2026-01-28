@@ -129,6 +129,8 @@ Ahora con:
 npm run start-all
 ```
 
+> ⚠️ Actualmente no hay base de datos configurada. Para correr la API completa se necesita un PostgreSQL y configurar `DATABASE_URL` en `.env`.
+
 Se genera Prisma Client, corre el seed y levanta el servidor en un solo comando. 🎯
 
 ---
