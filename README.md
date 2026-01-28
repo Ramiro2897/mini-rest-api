@@ -1,11 +1,3 @@
-¡Perfecto! 😎 Vamos a dejarlo **listo para arrancar en cualquier máquina**. Te voy a dar tres cosas:
-
-1️⃣ **Seed inicial de usuarios**
-2️⃣ **README** con instrucciones claras
-3️⃣ **Comando para correr todo rápido**
-
----
-
 ## 1️⃣ Seed inicial (`prisma/seed.ts`)
 
 ```ts
